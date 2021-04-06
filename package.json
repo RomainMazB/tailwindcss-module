@@ -35,8 +35,8 @@
     "postcss-custom-properties": "^11.0.0",
     "postcss-nesting": "^7.0.1",
     "tailwind-config-viewer": "^1.5.1",
-    "tailwindcss": "^2.0.4",
-    "ufo": "^0.6.10"
+    "tailwindcss": "^2.1.1",
+    "ufo": "^0.6.11"
   },
   "devDependencies": {
     "@nuxt/test-utils": "^0.2.1",
@@ -46,7 +46,7 @@
     "eslint": "^7.23.0",
     "jest": "^26.6.3",
     "nuxt": "^2.15.4",
-    "siroc": "^0.8.0",
-    "standard-version": "^9.1.1"
+    "siroc": "^0.9.1",
+    "standard-version": "^9.2.0"
   }
 }
